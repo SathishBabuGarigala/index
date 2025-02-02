@@ -1,0 +1,24 @@
+button{
+    background-color: aquamarine;
+    color:pink;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-color: brown;
+    font-size: 20px;
+}
+
+
+
+.str{
+    font-size: 40;
+    font-style:initial;
+    color:red;
+}
+.p{
+    color:hotpink;
+    font-size: 35px;
+}
+body{
+    background-color:yellow;
+}
